@@ -1,0 +1,5 @@
+{
+  "name": "Document Analysis Assistant",
+  "description": "A dual-pane interface for document analysis and insights.",
+  "requestFramePermissions": []
+}
